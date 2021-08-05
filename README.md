@@ -1,2 +1,2 @@
 # bookstore
-Cloud Ready Spring Boot Version of Bookstore Repository for use with Tackle
+Spring Boot Version of the Migrated BookStore Application
